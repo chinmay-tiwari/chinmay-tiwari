@@ -19,4 +19,4 @@ Talk to me about
 ## Hello World!! 🤔
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🛠  I’m currently learning SQl and M.L.; 
-- 📙 Check out my [Resume](https://github.com/chinmay-tiwari/chinmay-tiwari/blob/master/Chinmay%20Tiwari%20Resume%20.pdf)
+- 📙 Check out my [Resume](https://github.com/chinmay-tiwari/chinmay-tiwari/blob/master/Chinmay_Tiwari-Resume.pdf)
